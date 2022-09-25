@@ -1,5 +1,5 @@
-//回答1
-// Forループをネスト化して組み合わせを一つずつ潰していく
+// Answer 1
+// Nested for loop
 var twoSum = function (nums, target) {
   for (let i = 0; i < nums.length; i++) {
     for (let p = 1; p < nums.length; p++) {
@@ -10,8 +10,8 @@ var twoSum = function (nums, target) {
     }
   }
 };
-// 回答2
-// Hash Mapで各要素の検証を行うごとにインデックスを記録
+// Answer 2
+// Use a hash map to record the index of examined element
 var twoSum = function (nums, target) {
   const table = {};
   for (let i = 0; i < nums.length; i++) {

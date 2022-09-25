@@ -1,6 +1,6 @@
-# 13. Two Sum
+# 1 Two Sum
 
-## 💻 問題文
+## 💻 Description
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.\
 You may assume that each input would have exactly one solution, and you may not use the same element twice.\
@@ -14,7 +14,7 @@ Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
-## 🔗 参考リンク
+## 🔗 References
 
 [Two Sum](https://leetcode.com/problems/two-sum/)\
 [Two Sum explained by Web Dev Simplified](https://youtu.be/Ivyh3V4QolA)

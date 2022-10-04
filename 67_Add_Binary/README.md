@@ -21,5 +21,4 @@ Output: "10101"
 ## 🔗 References
 
 [67 Add Binary](https://leetcode.com/problems/add-binary/)\
-[67 Add Binary explained by NeetCode](https://www.youtube.com/watch?v=keuWJ47xG8g)\
-⚠️ Above video explained this question with Python
+[67 Add Binary explained by NeetCode](https://www.youtube.com/watch?v=keuWJ47xG8g)

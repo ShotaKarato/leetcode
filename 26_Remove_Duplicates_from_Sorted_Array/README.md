@@ -21,4 +21,4 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ## 🔗 References
 
 [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)\
-[26 Remove Duplicates from Sorted Array explained by ]()
+[26 Remove Duplicates from Sorted Array explained by Terrible Whiteboard](https://youtu.be/rlfsnRY0S9k)

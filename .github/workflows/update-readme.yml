@@ -1,16 +1,17 @@
 on: [push]
 
 jobs:
-  runs-on: ubuntu-latest
-  name: Test Collect Directory Names action
-  steps:
-    - uses: actions/checkout@v3
-    - name: Collect Directory Names by File
-      id: get-directory-names
-      uses: featherweight-design/collect-directory-names-by-file-glob@v1.2.2
-      with:
-        file-glob: "**/*.ts"
-        search-directory: "/"
-        unique: "true"
-    - name: Use Directory Names
-      run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names}}
+  test:
+    runs-on: ubuntu-latest
+    name: Test Collect Directory Names action
+    steps:
+      - uses: actions/checkout@v3
+      - name: Collect Directory Names by File
+        id: get-directory-names
+        uses: featherweight-design/collect-directory-names-by-file-glob@v1.2.2
+        with:
+          file-glob: "**/*.ts"
+          search-directory: "/"
+          unique: "true"
+      - name: Use Directory Names
+        run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names}}

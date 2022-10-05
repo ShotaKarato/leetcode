@@ -3,14 +3,13 @@ name: update readme
 on: push
 
 jobs:
-  build:
-    name: update-readme
+  name: update-readme
     runs-on: ubuntu-latest
     steps:
       - name: get directory names
         id: get-directory-names
         uses: featherweight-design/collect-directory-names-by-file-glob@v1.2.2
         with:
-          file-glob: '**/*.ts'
+          file-glob: "**/*.ts"
       - name: use directory name
         run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names }}

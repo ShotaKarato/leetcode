@@ -15,4 +15,4 @@ jobs:
           search-directory: "/"
           unique: "true"
       - name: use directory name
-        run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names}}
+        run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names }}

@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: get directory names
-        id:
+        id: get-directory-names
         uses: actions/collect-directory-names-by-file-glob@v1.1
         with:
           file-glob: "**/*.ts"

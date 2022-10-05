@@ -1,0 +1,18 @@
+name: update readme
+
+on: push
+
+jobs:
+  build:
+    name: update-readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: get directory names
+        id:
+        uses: actions/collect-directory-names-by-file-glob@v1.1
+        with:
+          file-glob: "**/*.ts"
+          search-directory: "/"
+          unique: "true"
+      - name: use directory name
+        run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names}}

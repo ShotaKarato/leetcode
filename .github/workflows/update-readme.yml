@@ -1,15 +1,15 @@
-name: update readme
-
-on: push
+on: [push]
 
 jobs:
-  name: update-readme
+  hello_world_job:
     runs-on: ubuntu-latest
+    name: A job to say hello
     steps:
-      - name: get directory names
-        id: get-directory-names
-        uses: featherweight-design/collect-directory-names-by-file-glob@v1.2.2
+      - name: Hello world action step
+        id: hello
+        uses: shotakarato/get-directory-names@v1.0.1
         with:
-          file-glob: "**/*.ts"
-      - name: use directory name
-        run: echo "Directory Names are ${{ steps.get-directory-names.outputs.directory-names }}
+          who-to-greet: "Mona the Octocat"
+      # Use the output from the `hello` step
+      - name: Get the output time
+        run: echo "The time was ${{ steps.hello.outputs.time }}"

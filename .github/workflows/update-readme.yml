@@ -1,7 +1,6 @@
 on: [push]
 
 jobs:
-  test:
   runs-on: ubuntu-latest
   name: Test Collect Directory Names action
   steps:

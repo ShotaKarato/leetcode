@@ -1,4 +1,4 @@
-# 35_Search_Insert_Position
+# 35 Search Insert Position
 
 ## 💻 Description
 

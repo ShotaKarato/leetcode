@@ -13,4 +13,11 @@ jobs:
           cache: "yarn"
       - run: yarn install
       - name: Update README
-        uses: shotakarato/update-readme@v1.0.0
+        run: yarn readme
+      - name: Move README upto root directory
+        run: mv scripts/README.md README.md
+      - name: Commit files
+        run: |
+          git add README.md
+          git commit -m ":recycle: update README"
+          git push origin main

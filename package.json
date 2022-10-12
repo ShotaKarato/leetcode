@@ -1,0 +1,16 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShotaKarato/leetcode.git",
+  "author": "Shota Karato <theseuta@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "readme": "node scripts/index"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.4",
+    "nodemon": "2.0.20",
+    "typescript": "4.8.4"
+  }
+}

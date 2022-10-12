@@ -19,6 +19,8 @@
 
 [26 Remove Duplicates from Sorted Array](/26_Remove_Duplicates_from_Sorted_Array/)
 
+[35 Search Insert Position](/35_Search_Insert_Position/)
+
 [67 Add Binary](/67_Add_Binary/)
 
 [100 Same Tree](/100_Same_Tree/)

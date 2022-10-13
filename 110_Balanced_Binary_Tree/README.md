@@ -1,4 +1,4 @@
-# 110_Balanced_Binary_Tree
+# 110 Balanced Binary Tree
 
 ## 💻 Description
 

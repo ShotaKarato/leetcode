@@ -29,6 +29,8 @@
 
 [110 Balanced Binary Tree](/110_Balanced_Binary_Tree/)
 
+[111 Minimum Depth of Binary Tree](/111_Minimum_Depth_of_Binary_Tree/)
+
 [977 Squares of a Sorted Array](/977_Squares_of_a_Sorted_Array/)
 
 

@@ -33,6 +33,8 @@
 
 [111 Minimum Depth of Binary Tree](/111_Minimum_Depth_of_Binary_Tree/)
 
+[144 Binary Tree Preorder Traversal](/144_Binary_Tree_Preorder_Traversal/)
+
 [977 Squares of a Sorted Array](/977_Squares_of_a_Sorted_Array/)
 
 

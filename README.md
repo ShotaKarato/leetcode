@@ -19,6 +19,8 @@
 
 [26 Remove Duplicates from Sorted Array](/26_Remove_Duplicates_from_Sorted_Array/)
 
+[28 Find the Index of the First Occurrence in a String](/28_Find_the_Index_of_the_First_Occurrence_in_a_String/)
+
 [35 Search Insert Position](/35_Search_Insert_Position/)
 
 [67 Add Binary](/67_Add_Binary/)

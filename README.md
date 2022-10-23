@@ -23,6 +23,8 @@
 
 [35 Search Insert Position](/35_Search_Insert_Position/)
 
+[53 Maximum Subarray](/53_Maximum_Subarray/)
+
 [67 Add Binary](/67_Add_Binary/)
 
 [100 Same Tree](/100_Same_Tree/)

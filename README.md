@@ -25,6 +25,8 @@
 
 [53 Maximum Subarray](/53_Maximum_Subarray/)
 
+[66 Plus One](/66_Plus_One/)
+
 [67 Add Binary](/67_Add_Binary/)
 
 [100 Same Tree](/100_Same_Tree/)

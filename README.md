@@ -39,6 +39,8 @@
 
 [112 Path Sum](/112_Path_Sum/)
 
+[121 Best Time to Buy and Sell Stock](/121_Best_Time_to_Buy_and_Sell_Stock/)
+
 [144 Binary Tree Preorder Traversal](/144_Binary_Tree_Preorder_Traversal/)
 
 [977 Squares of a Sorted Array](/977_Squares_of_a_Sorted_Array/)

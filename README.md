@@ -29,6 +29,8 @@
 
 [67 Add Binary](/67_Add_Binary/)
 
+[69 Sqrt(x)](/69_Sqrt(x)/)
+
 [100 Same Tree](/100_Same_Tree/)
 
 [104 Maximum Depth of Binary Tree](/104_Maximum_Depth_of_Binary_Tree/)
@@ -48,6 +50,8 @@
 [226 Invert Binary Tree](/226_Invert_Binary_Tree/)
 
 [228 Summary Ranges](/228_Summary_Ranges/)
+
+[501 Find Mode in Binary Search Tree](/501_Find_Mode_in_Binary_Search_Tree/)
 
 [977 Squares of a Sorted Array](/977_Squares_of_a_Sorted_Array/)
 

@@ -33,6 +33,8 @@
 
 [70 Climbing Stairs](/70_Climbing_Stairs/)
 
+[88 Merge Sorted Array](/88_Merge_Sorted_Array/)
+
 [100 Same Tree](/100_Same_Tree/)
 
 [104 Maximum Depth of Binary Tree](/104_Maximum_Depth_of_Binary_Tree/)

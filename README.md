@@ -43,6 +43,8 @@
 
 [112 Path Sum](/112_Path_Sum/)
 
+[118 Pascal's Triangle](/118_Pascal's_Triangle/)
+
 [121 Best Time to Buy and Sell Stock](/121_Best_Time_to_Buy_and_Sell_Stock/)
 
 [141 Linked List Cycle](/141_Linked_List_Cycle/)

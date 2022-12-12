@@ -49,6 +49,8 @@
 
 [121 Best Time to Buy and Sell Stock](/121_Best_Time_to_Buy_and_Sell_Stock/)
 
+[125 Valid Palindrome](/125_Valid_Palindrome/)
+
 [141 Linked List Cycle](/141_Linked_List_Cycle/)
 
 [144 Binary Tree Preorder Traversal](/144_Binary_Tree_Preorder_Traversal/)

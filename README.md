@@ -57,6 +57,8 @@
 
 [155 Min Stack](/155_Min_Stack/)
 
+[160 Intersection of Two Linked Lists](/160_Intersection_of_Two_Linked_Lists/)
+
 [226 Invert Binary Tree](/226_Invert_Binary_Tree/)
 
 [228 Summary Ranges](/228_Summary_Ranges/)

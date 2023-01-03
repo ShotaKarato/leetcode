@@ -67,6 +67,8 @@
 
 [228 Summary Ranges](/228_Summary_Ranges/)
 
+[231 Power of Two](/231_Power_of_Two/)
+
 [501 Find Mode in Binary Search Tree](/501_Find_Mode_in_Binary_Search_Tree/)
 
 [836 Rectangle Overlap](/836_Rectangle_Overlap/)

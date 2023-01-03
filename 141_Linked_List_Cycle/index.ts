@@ -1,11 +1,4 @@
-class ListNode {
-  val: number;
-  next: ListNode | null;
-  constructor(val?: number, next?: ListNode | null) {
-    this.val = val === undefined ? 0 : val;
-    this.next = next === undefined ? null : next;
-  }
-}
+import { ListNode } from "../utils/index";
 
 const hasCycle = (head: ListNode | null): boolean => {
   let fast: ListNode | null = head;

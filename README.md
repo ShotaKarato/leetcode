@@ -63,6 +63,8 @@
 
 [169 Majority Element](/169_Majority_Element/)
 
+[171 Excel Sheet Column Number](/171_Excel_Sheet_Column_Number/)
+
 [226 Invert Binary Tree](/226_Invert_Binary_Tree/)
 
 [228 Summary Ranges](/228_Summary_Ranges/)

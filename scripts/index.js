@@ -18,9 +18,8 @@ const createWholeText = (dirNames) => {
     const linkTexts = createLinkTexts(dirNames);
     const wholeText = `# 超ド文系なのに気合と根性で LeetCode を解く奴
   高校時代、確率のテストで 3/100 点を叩き出して二子玉川の河川敷で答案用紙を燃やした超絶ド文系が気合と根性でLeetCodeのアルゴリズムに挑む物語です。
-  
-  あの時の焦げた答案用紙の匂いは今でも忘れられません。
 
+  あの時の焦げた答案用紙の匂いは今でも忘れられません。
 
   あたたかく見守っていただけると幸いです。
 
@@ -56,6 +55,7 @@ const isException = (dirContent) => {
         ".vscode",
         "node_modules",
         "scripts",
+        "utils",
     ];
     return exceptionalDirectories.some((dir) => dir === dirContent.name);
 };

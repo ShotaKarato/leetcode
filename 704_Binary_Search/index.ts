@@ -7,6 +7,8 @@ const search = (nums: number[], target: number): number => {
     if (target === nums[center]) {
       return center;
     } else if (target < nums[center]) {
+      /*if target !== nums[center], we are no more required to examine nums[center]. Thus `center - 1` and `center + 1`.
+       */
       right = center - 1;
     } else {
       left = center + 1;

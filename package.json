@@ -6,7 +6,7 @@
   "author": "Shota Karato <theseuta@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "readme": "node scripts/index"
+    "readme": "node scripts/update_readme"
   },
   "devDependencies": {
     "@types/node": "18.8.4",

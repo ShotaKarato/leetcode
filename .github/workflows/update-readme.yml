@@ -14,7 +14,7 @@ jobs:
       - run: yarn install
       - name: Update README
         run: yarn readme
-      - name: Move README upto root directory
+      - name: Move README up to root directory
         run: mv scripts/README.md README.md
       - name: Commit files
         run: |

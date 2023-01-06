@@ -1,5 +1,10 @@
 name: Update README
-on: [push]
+on:
+  path:
+    paths:
+      - "scripts"
+      - "TypeScripts"
+      - ".github"
 jobs:
   test:
     runs-on: ubuntu-latest

@@ -6,7 +6,8 @@
   "author": "Shota Karato <theseuta@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "readme": "ts-node scripts/update_readme.ts"
+    "readme": "ts-node scripts/update_readme.ts",
+    "solution": "ts-node scripts/add_solution.ts"
   },
   "devDependencies": {
     "@types/node": "18.8.4",

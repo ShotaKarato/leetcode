@@ -28,9 +28,7 @@ const createWholeText = (dirMap: DirectoryMap) => {
 const createLinkText = (linkMap: LinkMap) => {
   let linkText: string = "";
   for (let key in linkMap) {
-    linkText += `### ${key}
-    ${linkMap[key]}
-    `;
+    linkText += `### ${key}\n${linkMap[key]}`;
   }
   return linkText;
 };
@@ -104,10 +102,3 @@ const formatDirNames = (dirName: string): DirectoryName => {
 };
 
 updateReadme();
-
-/**
- * {
- *  TypeScript: {},
- *  Rust: {}
- * }
- */

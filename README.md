@@ -7,7 +7,7 @@
 
   ## Solutions
   ### TypeScript
-    [1 Two Sum](/TypeScript/1_Two_Sum/)
+[1 Two Sum](/TypeScript/1_Two_Sum/)
 
 [13 Roman To Integer](/TypeScript/13_Roman_To_Integer/)
 
@@ -82,5 +82,4 @@
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 
 
-    
   

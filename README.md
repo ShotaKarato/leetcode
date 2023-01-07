@@ -75,6 +75,8 @@
 
 [278 First Bad Version](/TypeScript/278_First_Bad_Version/)
 
+[344 Reverse String](/TypeScript/344_Reverse_String/)
+
 [501 Find Mode in Binary Search Tree](/TypeScript/501_Find_Mode_in_Binary_Search_Tree/)
 
 [704 Binary Search](/TypeScript/704_Binary_Search/)

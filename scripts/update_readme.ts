@@ -96,6 +96,8 @@ const isException = (dirContent: Dirent) => {
     "node_modules",
     "scripts",
     "utils",
+    "graphql",
+    "types",
   ];
   return exceptionalDirectories.some((dir) => dir === dirContent.name);
 };

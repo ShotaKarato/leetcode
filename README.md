@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-53-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-9-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-53-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-10-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### TypeScript
@@ -63,6 +63,8 @@
 [155 Min Stack](/TypeScript/155_Min_Stack/)
 
 [160 Intersection of Two Linked Lists](/TypeScript/160_Intersection_of_Two_Linked_Lists/)
+
+[167 Two Sum II - Input Array Is Sorted](/TypeScript/167_Two_Sum_II_-_Input_Array_Is_Sorted/)
 
 [169 Majority Element](/TypeScript/169_Majority_Element/)
 

@@ -1,6 +1,7 @@
 import { Dirent } from "fs";
 import { readdir, writeFile } from "fs/promises";
 import path from "path";
+import { getStats } from "./get_stats";
 
 type DirectoryName = {
   readonly questionNumber: number;
@@ -9,9 +10,11 @@ type DirectoryName = {
 type DirectoryMap = Record<string, DirectoryName[] | []>;
 type LinkMap = ReturnType<typeof createLinkMap>;
 
-const createWholeText = (dirMap: DirectoryMap) => {
+const createWholeText = async (dirMap: DirectoryMap) => {
   const linkMap = createLinkMap(dirMap);
   const linkText = createLinkText(linkMap);
+  const statsBadges = await getStats();
+
   const wholeText = `# 超ド文系なのに気合と根性で LeetCode を解く奴
   高校時代、確率のテストで 3/100 点を叩き出して二子玉川の河川敷で答案用紙を燃やした超絶ド文系が気合と根性でLeetCodeのアルゴリズムに挑む物語です。
 
@@ -19,9 +22,13 @@ const createWholeText = (dirMap: DirectoryMap) => {
 
   あたたかく見守っていただけると幸いです。
 
+  ## Summary
+  ${statsBadges}
+
   ## Solutions
   ${linkText}
   `;
+
   return wholeText;
 };
 
@@ -74,7 +81,7 @@ const updateReadme = async () => {
 
     await writeFile(
       path.resolve(__dirname, "README.md"),
-      createWholeText(directoryMap)
+      await createWholeText(directoryMap)
     );
   } catch (error) {
     console.log(error);

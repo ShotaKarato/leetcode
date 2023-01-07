@@ -19,6 +19,8 @@ jobs:
       - run: yarn install
       - name: Update README
         run: yarn readme
+        env:
+          USERNAME: ${{ secrets.USERNAME }}
       - name: Move README up to root directory
         run: mv scripts/README.md README.md
       - name: Commit files

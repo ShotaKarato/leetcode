@@ -1,0 +1,23 @@
+type data {
+  matchedUser: matchedUser
+}
+
+type matchedUser {
+  username: String
+  submitStats: submitStatsGlobal
+}
+
+type submitStatsGlobal {
+  acSubmissionNum: [acSubmissionNum]
+  __typename: String
+}
+
+type acSubmissionNum {
+  difficulty: String
+  count: Int
+  submissions: String
+}
+
+type Query {
+  GetStats(username: String!): data
+}

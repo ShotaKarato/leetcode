@@ -5,6 +5,9 @@
 
   あたたかく見守っていただけると幸いです。
 
+  ## Summary
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-53-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-9-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+
   ## Solutions
   ### TypeScript
 [1 Two Sum](/TypeScript/1_Two_Sum/)
@@ -86,6 +89,14 @@
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
+
+### graphql
+[NaN ](/graphql/NaN_/)
+
+[NaN ](/graphql/NaN_/)
+
+### types
+[NaN ](/types/NaN_/)
 
 
   

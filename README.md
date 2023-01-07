@@ -90,13 +90,5 @@
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 
-### graphql
-[NaN ](/graphql/NaN_/)
-
-[NaN ](/graphql/NaN_/)
-
-### types
-[NaN ](/types/NaN_/)
-
 
   

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-53-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-10-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-54-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-10-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### TypeScript
@@ -79,6 +79,8 @@
 [234 Palindrome Linked List](/TypeScript/234_Palindrome_Linked_List/)
 
 [278 First Bad Version](/TypeScript/278_First_Bad_Version/)
+
+[326 Power of Three](/TypeScript/326_Power_of_Three/)
 
 [344 Reverse String](/TypeScript/344_Reverse_String/)
 

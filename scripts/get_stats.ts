@@ -1,13 +1,13 @@
 import fetch from "cross-fetch";
 import { createClient, gql } from "@urql/core";
-import type { Data } from "../graphql/generated/graphql";
+import type { GetUserStatsQuery } from "../graphql/generated/graphql";
 import { STATS, Stats } from "./constants/stats";
 
 const GetStats = gql`
   query getStats($username: String!) {
     matchedUser(username: $username) {
       username
-      submitStats: submitStatsGlobal {
+      submitStats {
         acSubmissionNum {
           difficulty
           count
@@ -26,7 +26,7 @@ export const getStats = async () => {
     });
 
     const result = await client
-      .query<Data>(GetStats, { username: process.env.USERNAME })
+      .query<GetUserStatsQuery>(GetStats, { username: process.env.USERNAME })
       .toPromise();
     const stats = result.data?.matchedUser?.submitStats?.acSubmissionNum ?? [];
     const badges = stats

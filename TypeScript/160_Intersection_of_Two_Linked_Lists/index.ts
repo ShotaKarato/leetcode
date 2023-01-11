@@ -1,4 +1,4 @@
-import { ListNode } from "../utils/index";
+import { ListNode } from "../../utils/ListNode";
 
 const getIntersectionNode = (
   headA: ListNode | null,

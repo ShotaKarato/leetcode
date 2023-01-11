@@ -1,4 +1,4 @@
-import { ListNode } from "../utils/index";
+import { ListNode } from "../../utils/ListNode";
 
 const isPalindrome = (head: ListNode | null): boolean => {
   const nums: number[] = [];

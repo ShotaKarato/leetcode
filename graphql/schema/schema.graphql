@@ -1,23 +1,22 @@
-type data {
-  matchedUser: matchedUser
+type schema {
+  query: Query
 }
 
-type matchedUser {
+type MatchedUser {
   username: String
-  submitStats: submitStatsGlobal
+  submitStats: SubmitStatsGlobal
 }
 
-type submitStatsGlobal {
-  acSubmissionNum: [acSubmissionNum]
-  __typename: String
+type SubmitStatsGlobal {
+  acSubmissionNum: [AcSubmissionNum]
 }
 
-type acSubmissionNum {
+type AcSubmissionNum {
   difficulty: String
   count: Int
   submissions: String
 }
 
 type Query {
-  GetStats(username: String!): data
+  matchedUser(username: String!): MatchedUser
 }

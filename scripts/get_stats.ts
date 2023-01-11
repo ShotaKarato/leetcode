@@ -1,34 +1,13 @@
-import fetch from "cross-fetch";
-import { createClient, gql } from "@urql/core";
-import type { GetUserStatsQuery } from "../graphql/generated/graphql";
 import { STATS, Stats } from "./constants/stats";
-
-const GetStats = gql`
-  query getStats($username: String!) {
-    matchedUser(username: $username) {
-      username
-      submitStats {
-        acSubmissionNum {
-          difficulty
-          count
-          submissions
-        }
-      }
-    }
-  }
-`;
+import { createUrqlClient } from "./utils/client";
 
 export const getStats = async () => {
   try {
-    const client = createClient({
-      url: "https://leetcode.com/graphql",
-      fetch,
+    const { client } = createUrqlClient();
+    const result = await client.getUserStats({
+      username: process.env.USERNAME ?? "",
     });
-
-    const result = await client
-      .query<GetUserStatsQuery>(GetStats, { username: process.env.USERNAME })
-      .toPromise();
-    const stats = result.data?.matchedUser?.submitStats?.acSubmissionNum ?? [];
+    const stats = result.matchedUser?.submitStats?.acSubmissionNum ?? [];
     const badges = stats
       .filter((stat) => stat!.difficulty !== "All")
       .map(
@@ -45,3 +24,5 @@ export const getStats = async () => {
     console.log(error);
   }
 };
+
+getStats();

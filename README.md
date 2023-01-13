@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-54-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-10-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-54-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-11-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### TypeScript
@@ -91,6 +91,8 @@
 [704 Binary Search](/TypeScript/704_Binary_Search/)
 
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
+
+[912 Sort an Array](/TypeScript/912_Sort_an_Array/)
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 

@@ -5,7 +5,7 @@ type Node = ListNode | null;
 // get middle node by using slow and fast pointer
 const getMid = (head: ListNode) => {
   let slow: ListNode = head;
-  let fast: ListNode | null = head.next;
+  let fast: Node = head.next;
   while (fast && fast.next) {
     slow = slow.next as ListNode;
     fast = fast.next.next;

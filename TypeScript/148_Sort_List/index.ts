@@ -1,17 +1,19 @@
 import { ListNode } from "../../utils/ListNode";
 
+type Node = ListNode | null;
+
 // get middle node by using slow and fast pointer
 const getMid = (head: ListNode) => {
-  let slow = head;
-  let fast = head.next;
+  let slow: ListNode = head;
+  let fast: ListNode | null = head.next;
   while (fast && fast.next) {
-    slow = slow.next;
+    slow = slow.next as ListNode;
     fast = fast.next.next;
   }
   return slow;
 };
 
-const merge = (left: ListNode, right: ListNode) => {
+const merge = (left: Node, right: Node) => {
   let output = new ListNode();
   const head = output;
 
@@ -36,10 +38,10 @@ const merge = (left: ListNode, right: ListNode) => {
   return head.next;
 };
 
-const sortList = (head: ListNode | null): ListNode | null => {
+const sortList = (head: Node): Node => {
   if (!head || !head.next) return head;
-  let left = head;
-  let right = getMid(head);
+  let left: Node = head;
+  let right: Node = getMid(head);
   const temp = right.next;
   right.next = null;
   right = temp;

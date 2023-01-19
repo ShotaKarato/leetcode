@@ -17,7 +17,6 @@ const isValid = (s: string): boolean => {
     const curr = s[i];
     if (isOpeningBracket(curr)) {
       // opening bracket
-      curr;
       heap.push(table[curr]);
     } else {
       // closing bracket

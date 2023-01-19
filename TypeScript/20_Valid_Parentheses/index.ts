@@ -1,5 +1,13 @@
-function isValid(s: string): boolean {
-  const table = {
+const openingBrackets = ["(", "[", "{"] as const;
+const closingBrackets = [")", "]", "}"] as const;
+type OpeningBrackets = (typeof openingBrackets)[number];
+type ClosingBrackets = (typeof closingBrackets)[number];
+
+const isOpeningBracket = (char: string): char is OpeningBrackets =>
+  openingBrackets.some((brackets) => brackets === char) ? true : false;
+
+const isValid = (s: string): boolean => {
+  const table: Record<OpeningBrackets, ClosingBrackets> = {
     "(": ")",
     "[": "]",
     "{": "}",
@@ -7,8 +15,9 @@ function isValid(s: string): boolean {
   const heap: string[] = [];
   for (let i = 0; i < s.length; i++) {
     const curr = s[i];
-    // opening bracket
-    if (table[curr]) {
+    if (isOpeningBracket(curr)) {
+      // opening bracket
+      curr;
       heap.push(table[curr]);
     } else {
       // closing bracket
@@ -19,4 +28,4 @@ function isValid(s: string): boolean {
     }
   }
   return heap.length > 0 ? false : true;
-}
+};

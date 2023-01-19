@@ -19,7 +19,6 @@ const romanToInt = (s: string): number => {
   for (let i = 0; i < s.length; i++) {
     const curr = s[i] as Symbol;
     const next = s[i + 1] as Symbol;
-    table[curr];
     if (table[curr] < table[next]) {
       output += table[next] - table[curr];
       i++;

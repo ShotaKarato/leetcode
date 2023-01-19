@@ -1,4 +1,4 @@
-function longestCommonPrefix(strs: string[]): string {
+const longestCommonPrefix = (strs: string[]): string => {
   let output = "";
   for (let i = 0; i < strs[0].length; i++) {
     const pointer1 = strs[0][i];
@@ -16,4 +16,4 @@ function longestCommonPrefix(strs: string[]): string {
     }
   }
   return output;
-}
+};

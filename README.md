@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-55-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-56-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### TypeScript
@@ -89,6 +89,8 @@
 [501 Find Mode in Binary Search Tree](/TypeScript/501_Find_Mode_in_Binary_Search_Tree/)
 
 [557 Reverse Words in a String III](/TypeScript/557_Reverse_Words_in_a_String_III/)
+
+[617 Merge Two Binary Trees](/TypeScript/617_Merge_Two_Binary_Trees/)
 
 [704 Binary Search](/TypeScript/704_Binary_Search/)
 

@@ -27,5 +27,3 @@ Output: [2,2]
 ## 🔗 References
 
 [617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)
-
-[617 Merge Two Binary Trees explained by ]()

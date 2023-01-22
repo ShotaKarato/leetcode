@@ -9,7 +9,10 @@
   ![A badge for Easy problem](https://img.shields.io/badge/Easy-56-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
-  ### TypeScript
+  ### Rust
+[1 Two Sum](/Rust/1_Two_Sum/)
+
+### TypeScript
 [1 Two Sum](/TypeScript/1_Two_Sum/)
 
 [13 Roman To Integer](/TypeScript/13_Roman_To_Integer/)

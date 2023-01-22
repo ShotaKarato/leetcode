@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-56-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-57-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -92,6 +92,8 @@
 [501 Find Mode in Binary Search Tree](/TypeScript/501_Find_Mode_in_Binary_Search_Tree/)
 
 [557 Reverse Words in a String III](/TypeScript/557_Reverse_Words_in_a_String_III/)
+
+[559 Maximum Depth of N-ary Tree](/TypeScript/559_Maximum_Depth_of_N-ary_Tree/)
 
 [617 Merge Two Binary Trees](/TypeScript/617_Merge_Two_Binary_Trees/)
 

@@ -38,14 +38,24 @@ const createQuestionPath = ({
   return `${rootDir}/${dirName}`;
 };
 
+const writeSolutionFile = async (
+  questionPath: string,
+  fileExtension: LanguagesFlag
+) => {
+  await writeFile(
+    path.resolve(questionPath, `index.${fileExtension.replace(/-/, "")}`),
+    ""
+  );
+};
+
 const addSolution = async (args: string[]) => {
-  const [flag, ...questionName] = args.slice(2);
+  const [flag, ...questionName] = args.slice(2) as [LanguagesFlag, ...string[]];
   const questionPath = createQuestionPath({ questionName, flag });
   const readmeContent = createReadmeContent(questionName);
 
   await mkdir(questionPath);
   await writeFile(path.resolve(questionPath, "README.md"), readmeContent);
-  await writeFile(path.resolve(questionPath, "index.ts"), "");
+  await writeSolutionFile(questionPath, flag);
 };
 
 addSolution(argv);

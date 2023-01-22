@@ -12,9 +12,9 @@ const typeScript = {
 
 const rust = {
   name: "Rust",
-  flag: "-rust",
+  flag: "-rs",
 } as const;
 
 export const LANGUAGES = [typeScript, rust];
-export type Languages = typeof LANGUAGES[number]["name"];
-export type LanguagesFlag = typeof LANGUAGES[number]["flag"];
+export type Languages = (typeof LANGUAGES)[number]["name"];
+export type LanguagesFlag = (typeof LANGUAGES)[number]["flag"];

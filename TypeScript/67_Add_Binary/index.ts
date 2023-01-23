@@ -1,5 +1,5 @@
 // Initial Answer
-const getLastChar = (str: string, index) => {
+const getLastChar = (str: string, index: number) => {
   const previousIndex = str.length - index + 1;
   return Number(str.substring(previousIndex, str.length - index));
 };

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-57-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-58-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -104,6 +104,8 @@
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
 
 [912 Sort an Array](/TypeScript/912_Sort_an_Array/)
+
+[938 Range Sum of BST](/TypeScript/938_Range_Sum_of_BST/)
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 

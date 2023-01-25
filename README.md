@@ -12,6 +12,8 @@
   ### Rust
 [1 Two Sum](/Rust/1_Two_Sum/)
 
+[66 Plus One](/Rust/66_Plus_One/)
+
 ### TypeScript
 [1 Two Sum](/TypeScript/1_Two_Sum/)
 

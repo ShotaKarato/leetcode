@@ -8,9 +8,9 @@ const isSameTree = (p: TreeNode | null, q: TreeNode | null): boolean => {
   // only one of them is null
   if (!p && q) return false;
   if (!q && p) return false;
-  // values not equal
-  if (p.val !== q.val) return false;
-  return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+  // values not equal (Using non-null assertion operator as we know neither of p or q is null)
+  if (p!.val !== q!.val) return false;
+  return isSameTree(p!.left, q!.left) && isSameTree(p!.right, q!.right);
 };
 
 const isSameTree02 = (p: TreeNode | null, q: TreeNode | null): boolean => {

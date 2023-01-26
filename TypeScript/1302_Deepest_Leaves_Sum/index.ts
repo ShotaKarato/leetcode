@@ -1,6 +1,6 @@
 import { TreeNode } from "utils/TreeNode";
 
-function deepestLeavesSum(root: TreeNode | null): number {
+const deepestLeavesSum = (root: TreeNode | null): number => {
   // record of the maximum depth
   let maxDepth = 1;
   // record of bottom node ([number, number][] is record of depth and value)
@@ -26,4 +26,4 @@ function deepestLeavesSum(root: TreeNode | null): number {
   }, 0);
 
   return deepestNodes;
-}
+};

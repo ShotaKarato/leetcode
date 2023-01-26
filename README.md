@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-58-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-59-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-12-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -110,6 +110,8 @@
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
+
+[2331 Evaluate Boolean Binary Tree](/TypeScript/2331_Evaluate_Boolean_Binary_Tree/)
 
 
   

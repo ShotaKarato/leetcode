@@ -1,4 +1,4 @@
-import { ListNode } from "../../utils/ListNode";
+import { ListNode } from "utils/ListNode";
 
 type Node = ListNode | null;
 

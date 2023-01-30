@@ -1,27 +1,9 @@
 /** @type {import("eslint").ESLint.Options}} */
 
 module.exports = {
-  env: {
-    browser: true,
-    es2021: true,
-  },
-  extends: "standard-with-typescript",
-  overrides: [
-    {
-      file: ["**./{ts,js}"],
-      extends: ["plugin:@typescript-eslint/recommended"],
-      plugins: ["@typescript-eslint"],
-      rules: {
-        "@typescript-eslint/comma-dangle": "off",
-      },
-    },
-  ],
-  parserOptions: {
-    ecmaVersion: "latest",
-    sourceType: "module",
-  },
+  extends: ["plugin:@typescript-eslint/recommended"],
   rules: {
-    "no-restricted-imports": [
+    "@typescript-eslint/no-restricted-imports": [
       "error",
       {
         patterns: ["../../*"],

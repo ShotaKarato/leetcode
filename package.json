@@ -9,7 +9,8 @@
     "readme": "ts-node scripts/update_readme.ts",
     "solution": "ts-node scripts/add_solution.ts",
     "stats": "ts-node scripts/get_stats.ts",
-    "codegen": "graphql-codegen --config codegen.ts"
+    "codegen": "graphql-codegen --config codegen.ts",
+    "lint": "eslint --cache './**/*.{js,jsx,ts,tsx}'"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.16.4",

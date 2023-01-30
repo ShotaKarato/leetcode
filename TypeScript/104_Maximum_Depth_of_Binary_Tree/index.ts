@@ -1,4 +1,4 @@
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
 // Answer 1: initial answer
 type Params = TreeNode | null;

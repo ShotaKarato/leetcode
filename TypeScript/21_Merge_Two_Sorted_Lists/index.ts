@@ -1,4 +1,4 @@
-import { ListNode } from "../../utils/ListNode";
+import { ListNode } from "~/utils/ListNode";
 
 const mergeTwoLists = (
   list1: ListNode | null,

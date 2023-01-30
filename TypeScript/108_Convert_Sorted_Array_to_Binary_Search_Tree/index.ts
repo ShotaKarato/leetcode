@@ -1,4 +1,4 @@
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 /** 
  * My initial answer (It didn't pass some of the tests...)
 const sortedArrayToBST = (nums: number[]): TreeNode | null => {
@@ -36,7 +36,7 @@ const sortedArrayToBST = (nums: number[]): TreeNode | null => {
 
 const sortedArrayToBST = (
   nums: number[],
-  left: number = 0,
+  left = 0,
   right: number = nums.length - 1
 ): TreeNode | null => {
   if (left > right) return null;

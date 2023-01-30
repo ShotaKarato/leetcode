@@ -1,5 +1,5 @@
 //Definition for a binary tree node.
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
 //Initial Answer: Behold how fat and ugly my code is lol
 function minDepth(root: TreeNode | null): number {

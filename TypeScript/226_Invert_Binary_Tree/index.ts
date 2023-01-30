@@ -1,4 +1,4 @@
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
 const invertTree = (root: TreeNode | null): TreeNode | null => {
   if (!root) return null;

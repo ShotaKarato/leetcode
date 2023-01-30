@@ -1,5 +1,5 @@
 //Definition for a binary tree node.
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
 // initial answer
 const isSameTree = (p: TreeNode | null, q: TreeNode | null): boolean => {

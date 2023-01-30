@@ -1,5 +1,5 @@
 //Definition for a binary tree node.
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
 /**
  * NOTE: I wasn't able to finish this without watching the tutorial

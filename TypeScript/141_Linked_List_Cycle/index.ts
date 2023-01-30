@@ -1,4 +1,4 @@
-import { ListNode } from "../../utils/ListNode";
+import { ListNode } from "~/utils/ListNode";
 
 const hasCycle = (head: ListNode | null): boolean => {
   let fast: ListNode | null = head;

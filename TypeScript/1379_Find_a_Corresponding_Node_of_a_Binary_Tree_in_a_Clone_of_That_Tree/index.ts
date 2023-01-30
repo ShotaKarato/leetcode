@@ -1,4 +1,4 @@
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 // Initial answer
 const dig = (
   node: TreeNode | null,

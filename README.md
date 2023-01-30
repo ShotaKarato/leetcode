@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-60-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-61-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -96,6 +96,8 @@
 [557 Reverse Words in a String III](/TypeScript/557_Reverse_Words_in_a_String_III/)
 
 [559 Maximum Depth of N-ary Tree](/TypeScript/559_Maximum_Depth_of_N-ary_Tree/)
+
+[590 N-ary Tree Postorder Traversal](/TypeScript/590_N-ary_Tree_Postorder_Traversal/)
 
 [617 Merge Two Binary Trees](/TypeScript/617_Merge_Two_Binary_Trees/)
 

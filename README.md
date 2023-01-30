@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-59-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-60-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -102,6 +102,8 @@
 [704 Binary Search](/TypeScript/704_Binary_Search/)
 
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
+
+[897 Increasing Order Search Tree](/TypeScript/897_Increasing_Order_Search_Tree/)
 
 [912 Sort an Array](/TypeScript/912_Sort_an_Array/)
 

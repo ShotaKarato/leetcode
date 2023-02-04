@@ -113,6 +113,8 @@
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 
+[1022 Sum of Root To Leaf Binary Numbers](/TypeScript/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
+
 [1302 Deepest Leaves Sum](/TypeScript/1302_Deepest_Leaves_Sum/)
 
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)

@@ -49,13 +49,20 @@ const writeSolutionFile = async (
 };
 
 const addSolution = async (args: string[]) => {
-  const [flag, ...questionName] = args.slice(2) as [LanguagesFlag, ...string[]];
-  const questionPath = createQuestionPath({ questionName, flag });
-  const readmeContent = createReadmeContent(questionName);
+  try {
+    const [flag, ...questionName] = args.slice(2) as [
+      LanguagesFlag,
+      ...string[]
+    ];
+    const questionPath = createQuestionPath({ questionName, flag });
+    const readmeContent = createReadmeContent(questionName);
 
-  await mkdir(questionPath);
-  await writeFile(path.resolve(questionPath, "README.md"), readmeContent);
-  await writeSolutionFile(questionPath, flag);
+    await mkdir(questionPath);
+    await writeFile(path.resolve(questionPath, "README.md"), readmeContent);
+    await writeSolutionFile(questionPath, flag);
+  } catch (error: any) {
+    console.log(error.message);
+  }
 };
 
 addSolution(argv);

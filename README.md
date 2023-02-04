@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-61-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-63-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -118,6 +118,8 @@
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
 
 [2331 Evaluate Boolean Binary Tree](/TypeScript/2331_Evaluate_Boolean_Binary_Tree/)
+
+[2549 Count Distinct Numbers on Board](/TypeScript/2549_Count_Distinct_Numbers_on_Board/)
 
 
   

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-63-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-64-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -110,6 +110,8 @@
 [912 Sort an Array](/TypeScript/912_Sort_an_Array/)
 
 [938 Range Sum of BST](/TypeScript/938_Range_Sum_of_BST/)
+
+[965 Univalued Binary Tree](/TypeScript/965_Univalued_Binary_Tree/)
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
 

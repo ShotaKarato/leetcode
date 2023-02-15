@@ -45,6 +45,8 @@
 
 [100 Same Tree](/TypeScript/100_Same_Tree/)
 
+[101 Symmetric Tree](/TypeScript/101_Symmetric_Tree/)
+
 [104 Maximum Depth of Binary Tree](/TypeScript/104_Maximum_Depth_of_Binary_Tree/)
 
 [108 Convert Sorted Array to Binary Search Tree](/TypeScript/108_Convert_Sorted_Array_to_Binary_Search_Tree/)

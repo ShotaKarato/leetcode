@@ -2,7 +2,7 @@ import { TreeNode } from "~/utils/TreeNode";
 
 type Params = TreeNode | null;
 
-const isSymmetric = (root: Params): boolean => {
+export const isSymmetric = (root: Params): boolean => {
   if (!root) return true;
   const compare = (left: Params, right: Params): boolean => {
     if (left === null && right === null) return true;

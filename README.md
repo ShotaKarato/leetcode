@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-68-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-69-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-13-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -102,6 +102,8 @@
 [590 N-ary Tree Postorder Traversal](/TypeScript/590_N-ary_Tree_Postorder_Traversal/)
 
 [617 Merge Two Binary Trees](/TypeScript/617_Merge_Two_Binary_Trees/)
+
+[637 Average of Levels in Binary Tree](/TypeScript/637_Average_of_Levels_in_Binary_Tree/)
 
 [653 Two Sum IV - Input is a BST](/TypeScript/653_Two_Sum_IV_-_Input_is_a_BST/)
 

@@ -24,4 +24,4 @@ Explanation: Choosing the indices i=1 and j=3 (indexed from 0), you will get the
 
 [1464 Maximum Product of Two Elements in an Array]()
 
-[1464 Maximum Product of Two Elements in an Array explained by ]()
+<!-- [1464 Maximum Product of Two Elements in an Array explained by ]() -->

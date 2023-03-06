@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-70-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-15-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-71-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-15-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -138,6 +138,8 @@
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
 
 [1464 Maximum Product of Two Elements in an Array](/TypeScript/1464_Maximum_Product_of_Two_Elements_in_an_Array/)
+
+[1791 Find Center of Star Graph](/TypeScript/1791_Find_Center_of_Star_Graph/)
 
 [2331 Evaluate Boolean Binary Tree](/TypeScript/2331_Evaluate_Boolean_Binary_Tree/)
 

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-71-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-15-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-72-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-15-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -130,6 +130,8 @@
 [965 Univalued Binary Tree](/TypeScript/965_Univalued_Binary_Tree/)
 
 [977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
+
+[997 Find the Town Judge](/TypeScript/997_Find_the_Town_Judge/)
 
 [1022 Sum of Root To Leaf Binary Numbers](/TypeScript/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
 

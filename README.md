@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-74-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-14-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-75-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-14-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -122,6 +122,8 @@
 [783 Minimum Distance Between BST Nodes](/TypeScript/783_Minimum_Distance_Between_BST_Nodes/)
 
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
+
+[876 Middle of the Linked List](/TypeScript/876_Middle_of_the_Linked_List/)
 
 [897 Increasing Order Search Tree](/TypeScript/897_Increasing_Order_Search_Tree/)
 

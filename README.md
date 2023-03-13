@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-72-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-15-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-74-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-14-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -80,6 +80,8 @@
 [169 Majority Element](/TypeScript/169_Majority_Element/)
 
 [171 Excel Sheet Column Number](/TypeScript/171_Excel_Sheet_Column_Number/)
+
+[203 Remove Linked List Elements](/TypeScript/203_Remove_Linked_List_Elements/)
 
 [226 Invert Binary Tree](/TypeScript/226_Invert_Binary_Tree/)
 

@@ -1,4 +1,4 @@
-const numJewelsInStones = (jewels: string, stones: string): number => {
+export const numJewelsInStones = (jewels: string, stones: string): number => {
   // create map
   const jewelMap: {
     [K: string]: number;

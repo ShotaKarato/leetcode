@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-75-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-76-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -118,6 +118,8 @@
 [704 Binary Search](/TypeScript/704_Binary_Search/)
 
 [733 Flood Fill](/TypeScript/733_Flood_Fill/)
+
+[771 Jewels and Stones](/TypeScript/771_Jewels_and_Stones/)
 
 [783 Minimum Distance Between BST Nodes](/TypeScript/783_Minimum_Distance_Between_BST_Nodes/)
 

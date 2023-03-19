@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-76-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-77-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -98,6 +98,8 @@
 [344 Reverse String](/TypeScript/344_Reverse_String/)
 
 [451 Sort Characters By Frequency](/TypeScript/451_Sort_Characters_By_Frequency/)
+
+[496 Next Greater Element I](/TypeScript/496_Next_Greater_Element_I/)
 
 [501 Find Mode in Binary Search Tree](/TypeScript/501_Find_Mode_in_Binary_Search_Tree/)
 

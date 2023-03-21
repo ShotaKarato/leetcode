@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-77-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-78-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -124,6 +124,8 @@
 [771 Jewels and Stones](/TypeScript/771_Jewels_and_Stones/)
 
 [783 Minimum Distance Between BST Nodes](/TypeScript/783_Minimum_Distance_Between_BST_Nodes/)
+
+[804 Unique Morse Code Words](/TypeScript/804_Unique_Morse_Code_Words/)
 
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
 

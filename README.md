@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-78-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-79-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -96,6 +96,8 @@
 [326 Power of Three](/TypeScript/326_Power_of_Three/)
 
 [344 Reverse String](/TypeScript/344_Reverse_String/)
+
+[349 Intersection of Two Arrays](/TypeScript/349_Intersection_of_Two_Arrays/)
 
 [451 Sort Characters By Frequency](/TypeScript/451_Sort_Characters_By_Frequency/)
 

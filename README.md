@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-81-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -134,6 +134,8 @@
 [804 Unique Morse Code Words](/TypeScript/804_Unique_Morse_Code_Words/)
 
 [836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
+
+[872 Leaf-Similar Trees](/TypeScript/872_Leaf-Similar_Trees/)
 
 [876 Middle of the Linked List](/TypeScript/876_Middle_of_the_Linked_List/)
 

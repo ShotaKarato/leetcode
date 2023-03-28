@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-80-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-81-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -70,6 +70,8 @@
 [141 Linked List Cycle](/TypeScript/141_Linked_List_Cycle/)
 
 [144 Binary Tree Preorder Traversal](/TypeScript/144_Binary_Tree_Preorder_Traversal/)
+
+[145 Binary Tree Postorder Traversal](/TypeScript/145_Binary_Tree_Postorder_Traversal/)
 
 [148 Sort List](/TypeScript/148_Sort_List/)
 

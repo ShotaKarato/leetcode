@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-79-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-80-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -44,6 +44,8 @@
 [70 Climbing Stairs](/TypeScript/70_Climbing_Stairs/)
 
 [88 Merge Sorted Array](/TypeScript/88_Merge_Sorted_Array/)
+
+[94 Binary Tree Inorder Traversal](/TypeScript/94_Binary_Tree_Inorder_Traversal/)
 
 [100 Same Tree](/TypeScript/100_Same_Tree/)
 

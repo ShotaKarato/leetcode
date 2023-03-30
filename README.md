@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-16-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-17-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -152,6 +152,8 @@
 [997 Find the Town Judge](/TypeScript/997_Find_the_Town_Judge/)
 
 [1022 Sum of Root To Leaf Binary Numbers](/TypeScript/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
+
+[1038 Binary Search Tree to Greater Sum Tree](/TypeScript/1038_Binary_Search_Tree_to_Greater_Sum_Tree/)
 
 [1302 Deepest Leaves Sum](/TypeScript/1302_Deepest_Leaves_Sum/)
 

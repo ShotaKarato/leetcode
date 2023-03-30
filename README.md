@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-17-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-18-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -156,6 +156,8 @@
 [1038 Binary Search Tree to Greater Sum Tree](/TypeScript/1038_Binary_Search_Tree_to_Greater_Sum_Tree/)
 
 [1302 Deepest Leaves Sum](/TypeScript/1302_Deepest_Leaves_Sum/)
+
+[1315 Sum of Nodes with Even-Valued Grandparent](/TypeScript/1315_Sum_of_Nodes_with_Even-Valued_Grandparent/)
 
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
 

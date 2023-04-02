@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-18-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-19-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -120,6 +120,8 @@
 [637 Average of Levels in Binary Tree](/TypeScript/637_Average_of_Levels_in_Binary_Tree/)
 
 [653 Two Sum IV - Input is a BST](/TypeScript/653_Two_Sum_IV_-_Input_is_a_BST/)
+
+[654 Maximum Binary Tree](/TypeScript/654_Maximum_Binary_Tree/)
 
 [700 Search in a Binary Search Tree](/TypeScript/700_Search_in_a_Binary_Search_Tree/)
 

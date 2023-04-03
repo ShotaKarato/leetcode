@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-19-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-21-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -102,6 +102,8 @@
 [344 Reverse String](/TypeScript/344_Reverse_String/)
 
 [349 Intersection of Two Arrays](/TypeScript/349_Intersection_of_Two_Arrays/)
+
+[382 Linked List Random Node](/TypeScript/382_Linked_List_Random_Node/)
 
 [451 Sort Characters By Frequency](/TypeScript/451_Sort_Characters_By_Frequency/)
 

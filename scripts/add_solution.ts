@@ -26,15 +26,12 @@ const createQuestionPath = ({
   if (!isValidFlag(flag)) {
     throw new Error("Oops flag is not valid!");
   }
-
   const dirName = questionName
     .map((item) => item.replace(/\./gi, ""))
     .join("_");
-
   const rootDir: Languages = LANGUAGES.find(
     ({ flag: langFlag }) => langFlag === flag
   )!["name"];
-
   return `${rootDir}/${dirName}`;
 };
 

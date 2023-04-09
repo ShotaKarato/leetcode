@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-21-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-22-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -16,6 +16,8 @@
 
 ### TypeScript
 [1 Two Sum](/TypeScript/1_Two_Sum/)
+
+[7 Reverse Integer](/TypeScript/7_Reverse_Integer/)
 
 [13 Roman To Integer](/TypeScript/13_Roman_To_Integer/)
 

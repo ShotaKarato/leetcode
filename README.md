@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-23-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-24-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -26,6 +26,8 @@
 [16 3Sum Closest](/TypeScript/16_3Sum_Closest/)
 
 [17 Letter Combinations of a Phone Number](/TypeScript/17_Letter_Combinations_of_a_Phone_Number/)
+
+[19 Remove Nth Node From End of List](/TypeScript/19_Remove_Nth_Node_From_End_of_List/)
 
 [20 Valid Parentheses](/TypeScript/20_Valid_Parentheses/)
 

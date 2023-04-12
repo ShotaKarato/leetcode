@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-22-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-23-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -24,6 +24,8 @@
 [14 Longest Common Prefix](/TypeScript/14_Longest_Common_Prefix/)
 
 [16 3Sum Closest](/TypeScript/16_3Sum_Closest/)
+
+[17 Letter Combinations of a Phone Number](/TypeScript/17_Letter_Combinations_of_a_Phone_Number/)
 
 [20 Valid Parentheses](/TypeScript/20_Valid_Parentheses/)
 

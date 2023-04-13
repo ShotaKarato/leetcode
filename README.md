@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-24-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-25-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -32,6 +32,8 @@
 [20 Valid Parentheses](/TypeScript/20_Valid_Parentheses/)
 
 [21 Merge Two Sorted Lists](/TypeScript/21_Merge_Two_Sorted_Lists/)
+
+[22 Generate Parentheses](/TypeScript/22_Generate_Parentheses/)
 
 [26 Remove Duplicates from Sorted Array](/TypeScript/26_Remove_Duplicates_from_Sorted_Array/)
 

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-25-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-26-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -38,6 +38,8 @@
 [26 Remove Duplicates from Sorted Array](/TypeScript/26_Remove_Duplicates_from_Sorted_Array/)
 
 [28 Find the Index of the First Occurrence in a String](/TypeScript/28_Find_the_Index_of_the_First_Occurrence_in_a_String/)
+
+[33 Search in Rotated Sorted Array](/TypeScript/33_Search_in_Rotated_Sorted_Array/)
 
 [35 Search Insert Position](/TypeScript/35_Search_Insert_Position/)
 

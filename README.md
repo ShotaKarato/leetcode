@@ -6,11 +6,17 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-82-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-26-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-85-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-26-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
 [1 Two Sum](/Rust/1_Two_Sum/)
+
+[14 Longest Common Prefix](/Rust/14_Longest_Common_Prefix/)
+
+[35 Search Insert Position](/Rust/35_Search_Insert_Position/)
+
+[58 Length of Last Word](/Rust/58_Length_of_Last_Word/)
 
 [66 Plus One](/Rust/66_Plus_One/)
 
@@ -44,6 +50,8 @@
 [35 Search Insert Position](/TypeScript/35_Search_Insert_Position/)
 
 [53 Maximum Subarray](/TypeScript/53_Maximum_Subarray/)
+
+[58 Length of Last Word](/TypeScript/58_Length_of_Last_Word/)
 
 [66 Plus One](/TypeScript/66_Plus_One/)
 

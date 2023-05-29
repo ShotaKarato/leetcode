@@ -1,22 +1,16 @@
 const groupAnagrams = (strs: string[]): string[][] => {
-  const sortedStrs = strs.map((str) => str.split("").sort().join(""));
-  const map: Record<string, number[]> = {};
-  for (let i = 0; i < sortedStrs.length; i++) {
-    const curr = sortedStrs[i];
-    if (map[curr]) {
-      map[curr] = [...map[curr], i];
+  const map: Record<string, string[]> = {};
+  for (const str of strs) {
+    const count = new Array(26).fill(0);
+    for (const char of str) {
+      count[char.charCodeAt(0) - 97]++;
+    }
+    const key = count.toString();
+    if (map[key]) {
+      map[key] = [...map[key], str];
     } else {
-      map[curr] = [i];
+      map[key] = [str];
     }
   }
-  const output: string[][] = [];
-  for (const key in map) {
-    const group: string[] = [];
-    for (const index of map[key]) {
-      group.push(strs[index]);
-    }
-    output.push(group);
-  }
-
-  return output;
+  return Array.from(Object.values(map));
 };

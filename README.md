@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-85-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-26-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-27-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -14,11 +14,17 @@
 
 [14 Longest Common Prefix](/Rust/14_Longest_Common_Prefix/)
 
+[20 Valid Parentheses](/Rust/20_Valid_Parentheses/)
+
 [35 Search Insert Position](/Rust/35_Search_Insert_Position/)
 
 [58 Length of Last Word](/Rust/58_Length_of_Last_Word/)
 
 [66 Plus One](/Rust/66_Plus_One/)
+
+[217 Contains Duplicate](/Rust/217_Contains_Duplicate/)
+
+[242 Valid Anagram](/Rust/242_Valid_Anagram/)
 
 ### TypeScript
 [1 Two Sum](/TypeScript/1_Two_Sum/)
@@ -48,6 +54,8 @@
 [33 Search in Rotated Sorted Array](/TypeScript/33_Search_in_Rotated_Sorted_Array/)
 
 [35 Search Insert Position](/TypeScript/35_Search_Insert_Position/)
+
+[49 Group Anagrams](/TypeScript/49_Group_Anagrams/)
 
 [53 Maximum Subarray](/TypeScript/53_Maximum_Subarray/)
 

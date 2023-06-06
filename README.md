@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-27-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-28-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -18,9 +18,13 @@
 
 [35 Search Insert Position](/Rust/35_Search_Insert_Position/)
 
+[49 Group Anagrams](/Rust/49_Group_Anagrams/)
+
 [58 Length of Last Word](/Rust/58_Length_of_Last_Word/)
 
 [66 Plus One](/Rust/66_Plus_One/)
+
+[70 Climbing Stairs](/Rust/70_Climbing_Stairs/)
 
 [217 Contains Duplicate](/Rust/217_Contains_Duplicate/)
 
@@ -126,6 +130,8 @@
 [326 Power of Three](/TypeScript/326_Power_of_Three/)
 
 [344 Reverse String](/TypeScript/344_Reverse_String/)
+
+[347 Top K Frequent Elements](/TypeScript/347_Top_K_Frequent_Elements/)
 
 [349 Intersection of Two Arrays](/TypeScript/349_Intersection_of_Two_Arrays/)
 

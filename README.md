@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-28-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-29-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   ### Rust
@@ -124,6 +124,8 @@
 [231 Power of Two](/TypeScript/231_Power_of_Two/)
 
 [234 Palindrome Linked List](/TypeScript/234_Palindrome_Linked_List/)
+
+[238 Product of Array Except Self](/TypeScript/238_Product_of_Array_Except_Self/)
 
 [278 First Bad Version](/TypeScript/278_First_Bad_Version/)
 

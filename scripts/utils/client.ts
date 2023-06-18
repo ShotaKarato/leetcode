@@ -1,6 +1,6 @@
 import fetch from "cross-fetch";
 import { createClient } from "@urql/core";
-import { getSdk } from "~/graphql/generated/graphql";
+import { getSdk } from "../../graphql/generated/graphql";
 
 const client = createClient({
   url: "https://leetcode.com/graphql",

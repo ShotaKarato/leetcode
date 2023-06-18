@@ -2,7 +2,8 @@ import { mkdir, writeFile } from "fs/promises";
 import path from "path";
 import { argv } from "process";
 import { LANGUAGES } from "./constants/languages";
-import type { Languages, LanguagesFlag } from "./constants/languages";
+import type { LanguagesFlag } from "./constants/languages";
+import { access, constants } from "fs/promises";
 
 type CreateQuestionPathOptions = {
   readonly questionName: string[];
@@ -29,36 +30,37 @@ const createQuestionPath = ({
   const dirName = questionName
     .map((item) => item.replace(/\./gi, ""))
     .join("_");
-  const rootDir: Languages = LANGUAGES.find(
-    ({ flag: langFlag }) => langFlag === flag
-  )!["name"];
-  return `${rootDir}/${dirName}`;
+  return `solutions/${dirName}`;
 };
 
-const writeSolutionFile = async (
+// Create Readme
+const createReadme = async (questionPath: string, readmeContent: string) => {
+  await writeFile(questionPath, readmeContent);
+};
+
+// Create Solution
+const createSolution = async (
   questionPath: string,
   fileExtension: LanguagesFlag
 ) => {
   await writeFile(
     path.resolve(questionPath, `index.${fileExtension.replace(/-/, "")}`),
-    ""
+    "",
+    { flag: "wx" }
   );
 };
 
 const addSolution = async (args: string[]) => {
+  const [flag, ...questionName] = args.slice(2) as [LanguagesFlag, ...string[]];
+  const questionPath = createQuestionPath({ questionName, flag });
   try {
-    const [flag, ...questionName] = args.slice(2) as [
-      LanguagesFlag,
-      ...string[]
-    ];
-    const questionPath = createQuestionPath({ questionName, flag });
+    await access(questionPath, constants.W_OK);
+    await createSolution(questionPath, flag);
+  } catch {
     const readmeContent = createReadmeContent(questionName);
-
     await mkdir(questionPath);
-    await writeFile(path.resolve(questionPath, "README.md"), readmeContent);
-    await writeSolutionFile(questionPath, flag);
-  } catch (error: any) {
-    console.log(error.message);
+    await createReadme(path.resolve(questionPath, "README.md"), readmeContent);
+    await createSolution(questionPath, flag);
   }
 };
 

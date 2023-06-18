@@ -1,6 +1,8 @@
 name: Update README
 on:
   push:
+    branches:
+      - main
     paths:
       - "scripts/**"
       - "TypeScript/**"
@@ -21,8 +23,6 @@ jobs:
         run: yarn readme
         env:
           USERNAME: ${{ secrets.USERNAME }}
-      - name: Move README up to root directory
-        run: mv scripts/README.md README.md
       - name: Commit files
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"

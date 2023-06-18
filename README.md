@@ -9,207 +9,189 @@
   ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-29-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
-  ### Rust
-[1 Two Sum](/Rust/1_Two_Sum/)
+  [1 Two Sum](/solutions/1_Two_Sum/)
 
-[14 Longest Common Prefix](/Rust/14_Longest_Common_Prefix/)
+[7 Reverse Integer](/solutions/7_Reverse_Integer/)
 
-[20 Valid Parentheses](/Rust/20_Valid_Parentheses/)
+[13 Roman To Integer](/solutions/13_Roman_To_Integer/)
 
-[35 Search Insert Position](/Rust/35_Search_Insert_Position/)
+[14 Longest Common Prefix](/solutions/14_Longest_Common_Prefix/)
 
-[49 Group Anagrams](/Rust/49_Group_Anagrams/)
+[16 3Sum Closest](/solutions/16_3Sum_Closest/)
 
-[58 Length of Last Word](/Rust/58_Length_of_Last_Word/)
+[17 Letter Combinations of a Phone Number](/solutions/17_Letter_Combinations_of_a_Phone_Number/)
 
-[66 Plus One](/Rust/66_Plus_One/)
+[19 Remove Nth Node From End of List](/solutions/19_Remove_Nth_Node_From_End_of_List/)
 
-[70 Climbing Stairs](/Rust/70_Climbing_Stairs/)
+[20 Valid Parentheses](/solutions/20_Valid_Parentheses/)
 
-[217 Contains Duplicate](/Rust/217_Contains_Duplicate/)
+[21 Merge Two Sorted Lists](/solutions/21_Merge_Two_Sorted_Lists/)
 
-[242 Valid Anagram](/Rust/242_Valid_Anagram/)
+[22 Generate Parentheses](/solutions/22_Generate_Parentheses/)
 
-### TypeScript
-[1 Two Sum](/TypeScript/1_Two_Sum/)
+[26 Remove Duplicates from Sorted Array](/solutions/26_Remove_Duplicates_from_Sorted_Array/)
 
-[7 Reverse Integer](/TypeScript/7_Reverse_Integer/)
+[28 Find the Index of the First Occurrence in a String](/solutions/28_Find_the_Index_of_the_First_Occurrence_in_a_String/)
 
-[13 Roman To Integer](/TypeScript/13_Roman_To_Integer/)
+[33 Search in Rotated Sorted Array](/solutions/33_Search_in_Rotated_Sorted_Array/)
 
-[14 Longest Common Prefix](/TypeScript/14_Longest_Common_Prefix/)
+[35 Search Insert Position](/solutions/35_Search_Insert_Position/)
 
-[16 3Sum Closest](/TypeScript/16_3Sum_Closest/)
+[49 Group Anagrams](/solutions/49_Group_Anagrams/)
 
-[17 Letter Combinations of a Phone Number](/TypeScript/17_Letter_Combinations_of_a_Phone_Number/)
+[53 Maximum Subarray](/solutions/53_Maximum_Subarray/)
 
-[19 Remove Nth Node From End of List](/TypeScript/19_Remove_Nth_Node_From_End_of_List/)
+[58 Length of Last Word](/solutions/58_Length_of_Last_Word/)
 
-[20 Valid Parentheses](/TypeScript/20_Valid_Parentheses/)
+[66 Plus One](/solutions/66_Plus_One/)
 
-[21 Merge Two Sorted Lists](/TypeScript/21_Merge_Two_Sorted_Lists/)
+[67 Add Binary](/solutions/67_Add_Binary/)
 
-[22 Generate Parentheses](/TypeScript/22_Generate_Parentheses/)
+[69 Sqrt(x)](/solutions/69_Sqrt(x)/)
 
-[26 Remove Duplicates from Sorted Array](/TypeScript/26_Remove_Duplicates_from_Sorted_Array/)
+[70 Climbing Stairs](/solutions/70_Climbing_Stairs/)
 
-[28 Find the Index of the First Occurrence in a String](/TypeScript/28_Find_the_Index_of_the_First_Occurrence_in_a_String/)
+[88 Merge Sorted Array](/solutions/88_Merge_Sorted_Array/)
 
-[33 Search in Rotated Sorted Array](/TypeScript/33_Search_in_Rotated_Sorted_Array/)
+[94 Binary Tree Inorder Traversal](/solutions/94_Binary_Tree_Inorder_Traversal/)
 
-[35 Search Insert Position](/TypeScript/35_Search_Insert_Position/)
+[100 Same Tree](/solutions/100_Same_Tree/)
 
-[49 Group Anagrams](/TypeScript/49_Group_Anagrams/)
+[101 Symmetric Tree](/solutions/101_Symmetric_Tree/)
 
-[53 Maximum Subarray](/TypeScript/53_Maximum_Subarray/)
+[104 Maximum Depth of Binary Tree](/solutions/104_Maximum_Depth_of_Binary_Tree/)
 
-[58 Length of Last Word](/TypeScript/58_Length_of_Last_Word/)
+[108 Convert Sorted Array to Binary Search Tree](/solutions/108_Convert_Sorted_Array_to_Binary_Search_Tree/)
 
-[66 Plus One](/TypeScript/66_Plus_One/)
+[110 Balanced Binary Tree](/solutions/110_Balanced_Binary_Tree/)
 
-[67 Add Binary](/TypeScript/67_Add_Binary/)
+[111 Minimum Depth of Binary Tree](/solutions/111_Minimum_Depth_of_Binary_Tree/)
 
-[69 Sqrt(x)](/TypeScript/69_Sqrt(x)/)
+[112 Path Sum](/solutions/112_Path_Sum/)
 
-[70 Climbing Stairs](/TypeScript/70_Climbing_Stairs/)
+[118 Pascal's Triangle](/solutions/118_Pascal's_Triangle/)
 
-[88 Merge Sorted Array](/TypeScript/88_Merge_Sorted_Array/)
+[121 Best Time to Buy and Sell Stock](/solutions/121_Best_Time_to_Buy_and_Sell_Stock/)
 
-[94 Binary Tree Inorder Traversal](/TypeScript/94_Binary_Tree_Inorder_Traversal/)
+[125 Valid Palindrome](/solutions/125_Valid_Palindrome/)
 
-[100 Same Tree](/TypeScript/100_Same_Tree/)
+[141 Linked List Cycle](/solutions/141_Linked_List_Cycle/)
 
-[101 Symmetric Tree](/TypeScript/101_Symmetric_Tree/)
+[144 Binary Tree Preorder Traversal](/solutions/144_Binary_Tree_Preorder_Traversal/)
 
-[104 Maximum Depth of Binary Tree](/TypeScript/104_Maximum_Depth_of_Binary_Tree/)
+[145 Binary Tree Postorder Traversal](/solutions/145_Binary_Tree_Postorder_Traversal/)
 
-[108 Convert Sorted Array to Binary Search Tree](/TypeScript/108_Convert_Sorted_Array_to_Binary_Search_Tree/)
+[148 Sort List](/solutions/148_Sort_List/)
 
-[110 Balanced Binary Tree](/TypeScript/110_Balanced_Binary_Tree/)
+[155 Min Stack](/solutions/155_Min_Stack/)
 
-[111 Minimum Depth of Binary Tree](/TypeScript/111_Minimum_Depth_of_Binary_Tree/)
+[160 Intersection of Two Linked Lists](/solutions/160_Intersection_of_Two_Linked_Lists/)
 
-[112 Path Sum](/TypeScript/112_Path_Sum/)
+[167 Two Sum II - Input Array Is Sorted](/solutions/167_Two_Sum_II_-_Input_Array_Is_Sorted/)
 
-[118 Pascal's Triangle](/TypeScript/118_Pascal's_Triangle/)
+[169 Majority Element](/solutions/169_Majority_Element/)
 
-[121 Best Time to Buy and Sell Stock](/TypeScript/121_Best_Time_to_Buy_and_Sell_Stock/)
+[171 Excel Sheet Column Number](/solutions/171_Excel_Sheet_Column_Number/)
 
-[125 Valid Palindrome](/TypeScript/125_Valid_Palindrome/)
+[203 Remove Linked List Elements](/solutions/203_Remove_Linked_List_Elements/)
 
-[141 Linked List Cycle](/TypeScript/141_Linked_List_Cycle/)
+[217 Contains Duplicate](/solutions/217_Contains_Duplicate/)
 
-[144 Binary Tree Preorder Traversal](/TypeScript/144_Binary_Tree_Preorder_Traversal/)
+[226 Invert Binary Tree](/solutions/226_Invert_Binary_Tree/)
 
-[145 Binary Tree Postorder Traversal](/TypeScript/145_Binary_Tree_Postorder_Traversal/)
+[228 Summary Ranges](/solutions/228_Summary_Ranges/)
 
-[148 Sort List](/TypeScript/148_Sort_List/)
+[231 Power of Two](/solutions/231_Power_of_Two/)
 
-[155 Min Stack](/TypeScript/155_Min_Stack/)
+[234 Palindrome Linked List](/solutions/234_Palindrome_Linked_List/)
 
-[160 Intersection of Two Linked Lists](/TypeScript/160_Intersection_of_Two_Linked_Lists/)
+[238 Product of Array Except Self](/solutions/238_Product_of_Array_Except_Self/)
 
-[167 Two Sum II - Input Array Is Sorted](/TypeScript/167_Two_Sum_II_-_Input_Array_Is_Sorted/)
+[242 Valid Anagram](/solutions/242_Valid_Anagram/)
 
-[169 Majority Element](/TypeScript/169_Majority_Element/)
+[278 First Bad Version](/solutions/278_First_Bad_Version/)
 
-[171 Excel Sheet Column Number](/TypeScript/171_Excel_Sheet_Column_Number/)
+[326 Power of Three](/solutions/326_Power_of_Three/)
 
-[203 Remove Linked List Elements](/TypeScript/203_Remove_Linked_List_Elements/)
+[344 Reverse String](/solutions/344_Reverse_String/)
 
-[226 Invert Binary Tree](/TypeScript/226_Invert_Binary_Tree/)
+[347 Top K Frequent Elements](/solutions/347_Top_K_Frequent_Elements/)
 
-[228 Summary Ranges](/TypeScript/228_Summary_Ranges/)
+[349 Intersection of Two Arrays](/solutions/349_Intersection_of_Two_Arrays/)
 
-[231 Power of Two](/TypeScript/231_Power_of_Two/)
+[382 Linked List Random Node](/solutions/382_Linked_List_Random_Node/)
 
-[234 Palindrome Linked List](/TypeScript/234_Palindrome_Linked_List/)
+[451 Sort Characters By Frequency](/solutions/451_Sort_Characters_By_Frequency/)
 
-[238 Product of Array Except Self](/TypeScript/238_Product_of_Array_Except_Self/)
+[496 Next Greater Element I](/solutions/496_Next_Greater_Element_I/)
 
-[278 First Bad Version](/TypeScript/278_First_Bad_Version/)
+[501 Find Mode in Binary Search Tree](/solutions/501_Find_Mode_in_Binary_Search_Tree/)
 
-[326 Power of Three](/TypeScript/326_Power_of_Three/)
+[557 Reverse Words in a String III](/solutions/557_Reverse_Words_in_a_String_III/)
 
-[344 Reverse String](/TypeScript/344_Reverse_String/)
+[559 Maximum Depth of N-ary Tree](/solutions/559_Maximum_Depth_of_N-ary_Tree/)
 
-[347 Top K Frequent Elements](/TypeScript/347_Top_K_Frequent_Elements/)
+[590 N-ary Tree Postorder Traversal](/solutions/590_N-ary_Tree_Postorder_Traversal/)
 
-[349 Intersection of Two Arrays](/TypeScript/349_Intersection_of_Two_Arrays/)
+[617 Merge Two Binary Trees](/solutions/617_Merge_Two_Binary_Trees/)
 
-[382 Linked List Random Node](/TypeScript/382_Linked_List_Random_Node/)
+[637 Average of Levels in Binary Tree](/solutions/637_Average_of_Levels_in_Binary_Tree/)
 
-[451 Sort Characters By Frequency](/TypeScript/451_Sort_Characters_By_Frequency/)
+[653 Two Sum IV - Input is a BST](/solutions/653_Two_Sum_IV_-_Input_is_a_BST/)
 
-[496 Next Greater Element I](/TypeScript/496_Next_Greater_Element_I/)
+[654 Maximum Binary Tree](/solutions/654_Maximum_Binary_Tree/)
 
-[501 Find Mode in Binary Search Tree](/TypeScript/501_Find_Mode_in_Binary_Search_Tree/)
+[700 Search in a Binary Search Tree](/solutions/700_Search_in_a_Binary_Search_Tree/)
 
-[557 Reverse Words in a String III](/TypeScript/557_Reverse_Words_in_a_String_III/)
+[704 Binary Search](/solutions/704_Binary_Search/)
 
-[559 Maximum Depth of N-ary Tree](/TypeScript/559_Maximum_Depth_of_N-ary_Tree/)
+[733 Flood Fill](/solutions/733_Flood_Fill/)
 
-[590 N-ary Tree Postorder Traversal](/TypeScript/590_N-ary_Tree_Postorder_Traversal/)
+[771 Jewels and Stones](/solutions/771_Jewels_and_Stones/)
 
-[617 Merge Two Binary Trees](/TypeScript/617_Merge_Two_Binary_Trees/)
+[783 Minimum Distance Between BST Nodes](/solutions/783_Minimum_Distance_Between_BST_Nodes/)
 
-[637 Average of Levels in Binary Tree](/TypeScript/637_Average_of_Levels_in_Binary_Tree/)
+[804 Unique Morse Code Words](/solutions/804_Unique_Morse_Code_Words/)
 
-[653 Two Sum IV - Input is a BST](/TypeScript/653_Two_Sum_IV_-_Input_is_a_BST/)
+[836 Rectangle Overlap](/solutions/836_Rectangle_Overlap/)
 
-[654 Maximum Binary Tree](/TypeScript/654_Maximum_Binary_Tree/)
+[872 Leaf-Similar Trees](/solutions/872_Leaf-Similar_Trees/)
 
-[700 Search in a Binary Search Tree](/TypeScript/700_Search_in_a_Binary_Search_Tree/)
+[876 Middle of the Linked List](/solutions/876_Middle_of_the_Linked_List/)
 
-[704 Binary Search](/TypeScript/704_Binary_Search/)
+[897 Increasing Order Search Tree](/solutions/897_Increasing_Order_Search_Tree/)
 
-[733 Flood Fill](/TypeScript/733_Flood_Fill/)
+[912 Sort an Array](/solutions/912_Sort_an_Array/)
 
-[771 Jewels and Stones](/TypeScript/771_Jewels_and_Stones/)
+[938 Range Sum of BST](/solutions/938_Range_Sum_of_BST/)
 
-[783 Minimum Distance Between BST Nodes](/TypeScript/783_Minimum_Distance_Between_BST_Nodes/)
+[965 Univalued Binary Tree](/solutions/965_Univalued_Binary_Tree/)
 
-[804 Unique Morse Code Words](/TypeScript/804_Unique_Morse_Code_Words/)
+[977 Squares of a Sorted Array](/solutions/977_Squares_of_a_Sorted_Array/)
 
-[836 Rectangle Overlap](/TypeScript/836_Rectangle_Overlap/)
+[997 Find the Town Judge](/solutions/997_Find_the_Town_Judge/)
 
-[872 Leaf-Similar Trees](/TypeScript/872_Leaf-Similar_Trees/)
+[1022 Sum of Root To Leaf Binary Numbers](/solutions/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
 
-[876 Middle of the Linked List](/TypeScript/876_Middle_of_the_Linked_List/)
+[1038 Binary Search Tree to Greater Sum Tree](/solutions/1038_Binary_Search_Tree_to_Greater_Sum_Tree/)
 
-[897 Increasing Order Search Tree](/TypeScript/897_Increasing_Order_Search_Tree/)
+[1302 Deepest Leaves Sum](/solutions/1302_Deepest_Leaves_Sum/)
 
-[912 Sort an Array](/TypeScript/912_Sort_an_Array/)
+[1315 Sum of Nodes with Even-Valued Grandparent](/solutions/1315_Sum_of_Nodes_with_Even-Valued_Grandparent/)
 
-[938 Range Sum of BST](/TypeScript/938_Range_Sum_of_BST/)
+[1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/solutions/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
 
-[965 Univalued Binary Tree](/TypeScript/965_Univalued_Binary_Tree/)
+[1464 Maximum Product of Two Elements in an Array](/solutions/1464_Maximum_Product_of_Two_Elements_in_an_Array/)
 
-[977 Squares of a Sorted Array](/TypeScript/977_Squares_of_a_Sorted_Array/)
+[1791 Find Center of Star Graph](/solutions/1791_Find_Center_of_Star_Graph/)
 
-[997 Find the Town Judge](/TypeScript/997_Find_the_Town_Judge/)
+[2130 Maximum Twin Sum of a Linked List](/solutions/2130_Maximum_Twin_Sum_of_a_Linked_List/)
 
-[1022 Sum of Root To Leaf Binary Numbers](/TypeScript/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
+[2181 Merge Nodes in Between Zeros](/solutions/2181_Merge_Nodes_in_Between_Zeros/)
 
-[1038 Binary Search Tree to Greater Sum Tree](/TypeScript/1038_Binary_Search_Tree_to_Greater_Sum_Tree/)
+[2331 Evaluate Boolean Binary Tree](/solutions/2331_Evaluate_Boolean_Binary_Tree/)
 
-[1302 Deepest Leaves Sum](/TypeScript/1302_Deepest_Leaves_Sum/)
-
-[1315 Sum of Nodes with Even-Valued Grandparent](/TypeScript/1315_Sum_of_Nodes_with_Even-Valued_Grandparent/)
-
-[1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/TypeScript/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
-
-[1464 Maximum Product of Two Elements in an Array](/TypeScript/1464_Maximum_Product_of_Two_Elements_in_an_Array/)
-
-[1791 Find Center of Star Graph](/TypeScript/1791_Find_Center_of_Star_Graph/)
-
-[2130 Maximum Twin Sum of a Linked List](/TypeScript/2130_Maximum_Twin_Sum_of_a_Linked_List/)
-
-[2181 Merge Nodes in Between Zeros](/TypeScript/2181_Merge_Nodes_in_Between_Zeros/)
-
-[2331 Evaluate Boolean Binary Tree](/TypeScript/2331_Evaluate_Boolean_Binary_Tree/)
-
-[2549 Count Distinct Numbers on Board](/TypeScript/2549_Count_Distinct_Numbers_on_Board/)
+[2549 Count Distinct Numbers on Board](/solutions/2549_Count_Distinct_Numbers_on_Board/)
 
 
   

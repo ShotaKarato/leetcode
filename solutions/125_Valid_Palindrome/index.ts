@@ -1,4 +1,4 @@
-const isPalindrome = (s: string): boolean => {
+export const isPalindrome = (s: string): boolean => {
   const str = s.replace(/[\W_]/g, "").toLowerCase();
   if (str.length === 1) return true;
   for (let i = 0; i < str.length / 2; i++) {

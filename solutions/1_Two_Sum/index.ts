@@ -1,24 +1,15 @@
-type Table = {
-  [key: number]: number;
-};
-
-const twoSum = (nums: number[], target: number): number[] => {
-  const table: Table = {};
-  // place and return output outside of for loop
-  // otherwise return type would be evaluated as number[] | undefined
+export const twoSum = (nums: number[], target: number): number[] => {
+  const table: Map<number, number> = new Map();
   let output: number[] = [];
   for (let i = 0; i < nums.length; i++) {
     const curr = nums[i];
-    const diff = target - curr;
-    // (!table[diff]) evaluates the case in which table[diff] is 0 to be true
-    // hence explicitly checking if value is 0
-    if (table[diff] || table[diff] === 0) {
-      output = [i, table[diff]];
+    const diff = table.get(target - curr);
+    if (diff !== undefined) {
+      output = [i, diff];
+      break;
     } else {
-      table[curr] = i;
+      table.set(curr, i);
     }
   }
   return output;
 };
-
-export {};

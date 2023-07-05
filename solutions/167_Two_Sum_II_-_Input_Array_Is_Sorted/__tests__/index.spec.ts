@@ -1,4 +1,4 @@
-import { twoSum } from "..";
+import { twoSum } from "~/solutions/167_Two_Sum_II_-_Input_Array_Is_Sorted";
 
 describe("twoSum", () => {
   it("should return the pair which makes the target number", () => {

@@ -1,4 +1,4 @@
-import { isPalindrome } from ".";
+import { isPalindrome } from "~/solutions/125_Valid_Palindrome";
 
 describe("isPalidrome", () => {
   it("return true if the string is valid palindrome", () => {

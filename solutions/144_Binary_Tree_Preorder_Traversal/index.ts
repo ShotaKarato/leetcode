@@ -1,7 +1,6 @@
-//Definition for a binary tree node.
-import { TreeNode } from "../../utils/TreeNode";
+import { TreeNode } from "~/utils/TreeNode";
 
-const preorderTraversal = (root: TreeNode | null): number[] => {
+export const preorderTraversal = (root: TreeNode | null): number[] => {
   if (!root) return [];
   const stack = [root];
   const output: number[] = [];
@@ -13,3 +12,15 @@ const preorderTraversal = (root: TreeNode | null): number[] => {
   }
   return output;
 };
+
+// const preorderTraversal = (root: TreeNode | null): number[] => {
+//     const output: number[] = [];
+//     const dfs = (node: TreeNode | null) => {
+//         if (!node) return;
+//         output.push(node.val);
+//         dfs(node.left)
+//         dfs(node.right)
+//     }
+//     dfs(root);
+//     return output;
+// };

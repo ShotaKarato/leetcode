@@ -4,8 +4,8 @@ on:
     branches:
       - main
     paths:
+      - "solutions/**"
       - "scripts/**"
-      - "TypeScript/**"
       - ".github/**"
 jobs:
   test:

@@ -6,16 +6,20 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-29-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-30-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
 
 [7 Reverse Integer](/solutions/7_Reverse_Integer/)
 
+[11 Container With Most Water](/solutions/11_Container_With_Most_Water/)
+
 [13 Roman To Integer](/solutions/13_Roman_To_Integer/)
 
 [14 Longest Common Prefix](/solutions/14_Longest_Common_Prefix/)
+
+[15 3Sum](/solutions/15_3Sum/)
 
 [16 3Sum Closest](/solutions/16_3Sum_Closest/)
 
@@ -74,6 +78,8 @@
 [121 Best Time to Buy and Sell Stock](/solutions/121_Best_Time_to_Buy_and_Sell_Stock/)
 
 [125 Valid Palindrome](/solutions/125_Valid_Palindrome/)
+
+[128 Longest Consecutive Sequence](/solutions/128_Longest_Consecutive_Sequence/)
 
 [141 Linked List Cycle](/solutions/141_Linked_List_Cycle/)
 

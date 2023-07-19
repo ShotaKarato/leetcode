@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-30-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-31-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -88,6 +88,8 @@
 [145 Binary Tree Postorder Traversal](/solutions/145_Binary_Tree_Postorder_Traversal/)
 
 [148 Sort List](/solutions/148_Sort_List/)
+
+[150 Evaluate Reverse Polish Notation](/solutions/150_Evaluate_Reverse_Polish_Notation/)
 
 [155 Min Stack](/solutions/155_Min_Stack/)
 

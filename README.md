@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-31-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-32-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -46,6 +46,8 @@
 [53 Maximum Subarray](/solutions/53_Maximum_Subarray/)
 
 [58 Length of Last Word](/solutions/58_Length_of_Last_Word/)
+
+[61 Rotate List](/solutions/61_Rotate_List/)
 
 [66 Plus One](/solutions/66_Plus_One/)
 

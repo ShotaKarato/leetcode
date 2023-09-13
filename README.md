@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-86-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-33-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-87-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-33-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -56,6 +56,8 @@
 [69 Sqrt(x)](/solutions/69_Sqrt(x)/)
 
 [70 Climbing Stairs](/solutions/70_Climbing_Stairs/)
+
+[83 Remove Duplicates from Sorted List](/solutions/83_Remove_Duplicates_from_Sorted_List/)
 
 [86 Partition List](/solutions/86_Partition_List/)
 

@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-87-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-34-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-89-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-36-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -34,6 +34,8 @@
 [22 Generate Parentheses](/solutions/22_Generate_Parentheses/)
 
 [26 Remove Duplicates from Sorted Array](/solutions/26_Remove_Duplicates_from_Sorted_Array/)
+
+[27 Remove Element](/solutions/27_Remove_Element/)
 
 [28 Find the Index of the First Occurrence in a String](/solutions/28_Find_the_Index_of_the_First_Occurrence_in_a_String/)
 

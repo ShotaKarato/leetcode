@@ -1,11 +1,12 @@
-const removeDuplicates = (nums: number[]): number => {
-  let p1 = 0;
-  for (let p2 = 1; p2 < nums.length; p2++) {
-    const curr = nums[p2];
-    if (curr !== nums[p1]) {
-      nums[p1 + 1] = curr;
-      p1++;
+export const removeDuplicates = (nums: number[]): number => {
+  let output = 1;
+  for (let i = 1; i < nums.length; i++) {
+    const curr = nums[i];
+    const prev = nums[i - 1];
+    if (curr !== prev) {
+      nums[output] = curr;
+      output++;
     }
   }
-  return p1 + 1;
+  return output;
 };

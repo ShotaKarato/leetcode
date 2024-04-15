@@ -13,6 +13,8 @@
 
 [7 Reverse Integer](/solutions/7_Reverse_Integer/)
 
+[9 Palindrome Number](/solutions/9_Palindrome_Number/)
+
 [11 Container With Most Water](/solutions/11_Container_With_Most_Water/)
 
 [13 Roman To Integer](/solutions/13_Roman_To_Integer/)

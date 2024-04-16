@@ -51,7 +51,18 @@ const createSolution = async (
 };
 
 const addSolution = async (args: string[]) => {
-  const [flag, ...questionName] = args.slice(2) as [LanguagesFlag, ...string[]];
+  const flagIndex = args.findIndex((arg) =>
+    LANGUAGES.some(({ flag }) => flag === arg)
+  );
+
+  if (flagIndex < 0) throw new Error("Oops! Flag is missing!");
+
+  const flag = args[flagIndex] as LanguagesFlag;
+  const questionName =
+    flagIndex === args.length - 1
+      ? args.slice(2, flagIndex - 1)
+      : args.slice(4);
+
   const questionPath = createQuestionPath({ questionName, flag });
   try {
     await access(questionPath, constants.W_OK);

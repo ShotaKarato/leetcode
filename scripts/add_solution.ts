@@ -50,7 +50,7 @@ const createSolution = async (
   );
 };
 
-const addSolution = async (args: string[]) => {
+export const extractFlagAndQuestionName = (args: string[]) => {
   const flagIndex = args.findIndex((arg) =>
     LANGUAGES.some(({ flag }) => flag === arg)
   );
@@ -59,10 +59,13 @@ const addSolution = async (args: string[]) => {
 
   const flag = args[flagIndex] as LanguagesFlag;
   const questionName =
-    flagIndex === args.length - 1
-      ? args.slice(2, flagIndex - 1)
-      : args.slice(4);
+    flagIndex === args.length - 1 ? args.slice(2, flagIndex) : args.slice(3);
 
+  return { flag, questionName };
+};
+
+const addSolution = async (args: string[]) => {
+  const { flag, questionName } = extractFlagAndQuestionName(args);
   const questionPath = createQuestionPath({ questionName, flag });
   try {
     await access(questionPath, constants.W_OK);
@@ -75,4 +78,6 @@ const addSolution = async (args: string[]) => {
   }
 };
 
-addSolution(argv);
+if (process.env.NODE_ENV !== "test") {
+  addSolution(argv);
+}

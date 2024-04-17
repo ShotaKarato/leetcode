@@ -6,6 +6,7 @@
   "author": "Shota Karato <theseuta@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "test": "jest",
     "readme": "ts-node scripts/update_readme.ts",
     "solution": "ts-node scripts/add_solution.ts",
     "stats": "ts-node scripts/get_stats.ts",

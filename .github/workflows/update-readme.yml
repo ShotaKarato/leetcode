@@ -23,7 +23,16 @@ jobs:
         run: yarn readme
         env:
           USERNAME: ${{ secrets.USERNAME }}
-      - name: Commit files
+      - name: Check for changes in README
+        id: check_readme_changes
+        run: |
+          if git status --porcelain | grep -q "README.md"; then
+            echo "::set-output name=changed::true"
+          else
+            echo "::set-output name=changed::false"
+          fi
+      - name: Commit README if changes detected
+        if: steps.check_readme_changes.outputs.changed == 'true'
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git config --global user.name  "${{ github.actor }}"

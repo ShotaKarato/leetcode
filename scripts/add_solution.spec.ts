@@ -72,7 +72,6 @@ describe("extractFlagAndQuestionName", () => {
     "should test case $id return correct flag & question name",
     ({ args, expected }) => {
       const { flag, questionName } = extractFlagAndQuestionName(args);
-      console.log(questionName);
       expect(flag).toBe(expected.flag);
       expect(questionName).toEqual(expected.questionName);
     }

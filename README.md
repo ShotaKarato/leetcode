@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-89-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-36-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-90-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-36-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -196,6 +196,8 @@
 [1022 Sum of Root To Leaf Binary Numbers](/solutions/1022_Sum_of_Root_To_Leaf_Binary_Numbers/)
 
 [1038 Binary Search Tree to Greater Sum Tree](/solutions/1038_Binary_Search_Tree_to_Greater_Sum_Tree/)
+
+[1290 Convert Binary Number in a Linked List to Integer](/solutions/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer/)
 
 [1302 Deepest Leaves Sum](/solutions/1302_Deepest_Leaves_Sum/)
 

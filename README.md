@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-90-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-36-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-90-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-37-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -216,6 +216,8 @@
 [2331 Evaluate Boolean Binary Tree](/solutions/2331_Evaluate_Boolean_Binary_Tree/)
 
 [2549 Count Distinct Numbers on Board](/solutions/2549_Count_Distinct_Numbers_on_Board/)
+
+[2807 Insert Greatest Common Divisors in Linked List](/solutions/2807_Insert_Greatest_Common_Divisors_in_Linked_List/)
 
 
   

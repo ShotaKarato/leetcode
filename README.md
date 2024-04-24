@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-90-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-37-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-90-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-38-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -206,6 +206,8 @@
 [1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/solutions/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/)
 
 [1464 Maximum Product of Two Elements in an Array](/solutions/1464_Maximum_Product_of_Two_Elements_in_an_Array/)
+
+[1669 Merge In Between Linked Lists](/solutions/1669_Merge_In_Between_Linked_Lists/)
 
 [1791 Find Center of Star Graph](/solutions/1791_Find_Center_of_Star_Graph/)
 

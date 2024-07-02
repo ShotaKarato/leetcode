@@ -6,7 +6,7 @@
   あたたかく見守っていただけると幸いです。
 
   ## Summary
-  ![A badge for Easy problem](https://img.shields.io/badge/Easy-91-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-38-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
+  ![A badge for Easy problem](https://img.shields.io/badge/Easy-92-green) ![A badge for Medium problem](https://img.shields.io/badge/Medium-39-yellow) ![A badge for Hard problem](https://img.shields.io/badge/Hard-1-red)
 
   ## Solutions
   [1 Two Sum](/solutions/1_Two_Sum/)
@@ -142,6 +142,8 @@
 [349 Intersection of Two Arrays](/solutions/349_Intersection_of_Two_Arrays/)
 
 [382 Linked List Random Node](/solutions/382_Linked_List_Random_Node/)
+
+[387 First Unique Character in a String](/solutions/387_First_Unique_Character_in_a_String/)
 
 [404 Sum of Left Leaves](/solutions/404_Sum_of_Left_Leaves/)
 
